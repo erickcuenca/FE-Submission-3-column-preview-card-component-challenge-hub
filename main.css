@@ -54,6 +54,9 @@ body {
     margin-bottom: 3rem;
     width: 75%;
 }
+h1 {
+    display: none;
+}
 h2 {
     font-family: 'Big Shoulders Display', cursive;
     font-weight: 700;
